@@ -7,3 +7,4 @@ Contains a whooping 5 COLORS!!!!!😍😍😍😍😍😍😍😍😍😍😍
 There is some secrets😮
 totally better than MS Paint😎
 There is no installation required. Just one JAR file:)
+Shoutouts to gbear605 for ScratchtoJAR: https://github.com/gbear605/ScratchToJAR
