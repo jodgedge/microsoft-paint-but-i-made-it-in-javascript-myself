@@ -6,4 +6,4 @@ FEATURES: Mostly mapped to Keyboard Shortcuts.
 Contains a whooping 5 COLORS!!!!!😍😍😍😍😍😍😍😍😍😍😍
 There is some secrets😮
 totally better than MS Paint😎
-There is no installation required. Just one HTML file:)
+There is no installation required. Just one JAR file:)
